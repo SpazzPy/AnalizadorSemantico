@@ -1,6 +1,6 @@
 ## AnalizadorSemantico
 
-**Autor:** Frannie Fermin (1-16-0408)
+**Autor:** Frannie Fermin 1-16-0408
 
 Este programa analiza la semántica de números, floats, strings y operaciones básicas de Python como la suma, resta, multiplicación y división.
 
