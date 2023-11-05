@@ -1,10 +1,13 @@
 ## AnalizadorSemantico
-### Frannie Fermin 1-16-0408
 
-Analiza la semantica de numeros, float, str y operaciones basicas de python.
+**Autor:** Frannie Fermin (1-16-0408)
 
-### Como ejecutarlo?
-Corre ```main.exe```
+Este programa analiza la semántica de números, floats, strings y operaciones básicas de Python como la suma, resta, multiplicación y división.
 
-### Como cambiar el codigo de ejemplo?
-Modifica ```test.py```
+## ¿Cómo ejecutarlo?
+
+Para ejecutar el programa, corre el siguiente comando:
+
+## ¿Cómo cambiar el código de ejemplo?
+
+Para cambiar el código de ejemplo, modifica el archivo test.py.
