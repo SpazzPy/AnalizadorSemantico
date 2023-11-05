@@ -101,4 +101,5 @@ def analyze_semantics(filename):
 if __name__ == "__main__":
     filename = "test.py"  # Nombre del archivo que se va a analizar semanticamente.
     analyze_semantics(filename)  # Llama a la funcion analyze_semantics para realizar el analisis semantico.
+    input("Presione cualquier tecla para continuar...")
 
